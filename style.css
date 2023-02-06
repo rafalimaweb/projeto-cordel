@@ -30,7 +30,7 @@ header > h1 {
     text-align: center;
     font-variant: small-caps;
     font-family: 'Passion-one';
-    font-size: 6vw;
+    font-size: 60px;
 
 }
 header > p {
@@ -38,7 +38,7 @@ header > p {
     padding-bottom: 50px;
     text-align: center;
     text-decoration: none;
-    font-size: 2vw;
+    font-size: 20px;
 }
 
 header a, footer a {
